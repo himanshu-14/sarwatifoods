@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /aboutus.html
+
+
+Sitemap: https://sarwatifoods.in/sitemap.xml
